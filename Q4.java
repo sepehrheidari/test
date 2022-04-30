@@ -7,9 +7,8 @@ public class Q4 {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the length of the Array");
         int n=sc.nextInt();
-        System.out.println("hiii");
         if(n!=0){
-            System.out.println("Enter the elements of the Arrays");
+            System.out.println("Enter the elements of the Array");
         }
         Integer[] a=new Integer[n];
         for(int i=0; i<n; i++) {
